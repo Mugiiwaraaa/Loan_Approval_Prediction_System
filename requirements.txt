@@ -5,3 +5,4 @@ sklearn
 seaborn
 Flask 
 joblib
+gunicorn
