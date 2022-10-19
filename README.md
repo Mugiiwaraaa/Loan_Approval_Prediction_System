@@ -1,5 +1,7 @@
 # Loan_Approval_Prediction_System
 
+[![Heroku Deployment Status](https://github.com/Mugiiwaraaa/Loan_Approval_Prediction_System/workflows/Heroku_Deployment/badge.svg)](https://github.com/Mugiiwaraaa/Loan_Approval_Prediction_System/actions)
+
 ### Software and Tool Requirements
 
 1. [GitHub Account](https://github.com) 
